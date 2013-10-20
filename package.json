@@ -1,0 +1,31 @@
+{
+  "name": "vine-search",
+  "version": "0.0.1",
+  "main": "src/VineSearch.js",
+  "author": "Jeff Ling <jeff@ummu.org>",
+  "homepage": "https://github.com/jeffling/node-vine-search",
+  "bugs:": "https://github.com/jeffling/node-vine-search/issues",
+  "engines": {
+    "node": ">= 0.6.x"
+  },
+  "dependencies": {
+    "twit": "~1.1.11",
+    "async": "~0.2.9",
+    "when": "~2.5.1",
+    "request": "~2.27.0"
+  },
+  "directories": {
+    "test": "./test",
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jeffling/node-vine-search.git"
+  },
+  "devDependencies": {
+    "chai": "~1.8.1",
+    "mocha": "~1.13.0",
+    "mocha-as-promised": "~1.4.0",
+    "chai-as-promised": "~4.0.0"
+  }
+}
