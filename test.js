@@ -1,3 +1,5 @@
+"use strict";
+
 var Mocha = require('mocha'),
   path = require('path'),
   fs = require('fs');
