@@ -21,10 +21,10 @@ var tweetvinetemplate = {
 
 describe("vine", function() {
   describe("search", function() {
-    var testSearch = vine.search();
+    var testSearch = vine.search({count: 11});
 
     it("should return a list of tweet/vine (tweetvine?) objects ", function() {
-      return testSearch.should.eventually.have.length(10);
+      return testSearch.should.eventually.have.length(11);
     });
 
     it("each object in the list should have certain properties", function() {
