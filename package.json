@@ -1,7 +1,7 @@
 {
   "name": "vine-search",
-  "version": "0.0.1",
-  "main": "src/VineSearch.js",
+  "version": "0.0.3",
+  "main": "./lib/VineSearch.js",
   "author": "Jeff Ling <jeff@ummu.org>",
   "homepage": "https://github.com/jeffling/node-vine-search",
   "bugs:": "https://github.com/jeffling/node-vine-search/issues",

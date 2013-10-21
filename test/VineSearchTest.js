@@ -4,7 +4,7 @@ var
   chai = require('chai'),
   should = chai.should(),
   chaiAsPromised = require("chai-as-promised"),
-  vine = require("../lib/VineSearch.js"),
+  vine = require("../lib/VineSearch"),
   when = require("when");
 
 require("mocha-as-promised")();
