@@ -1,5 +1,6 @@
 {
   "name": "vine-search",
+  "description": "Search for vines through twitter. Example: http://vinefeed.heroku.com. Returns a promise.",
   "version": "0.0.3",
   "main": "./lib/VineSearch.js",
   "author": "Jeff Ling <jeff@ummu.org>",
