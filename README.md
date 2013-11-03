@@ -40,7 +40,7 @@ Unrealistic usage Example:
         console.error(reason);
     }
 
-    var testSearch = vine.search({count: 20});
+    var testSearch = require('vine-search').search({count: 20});
     testSearch.then(successCallback, failCallback)
 
 
