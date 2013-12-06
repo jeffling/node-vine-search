@@ -1,7 +1,7 @@
 node-vine-search
 ================
 
-Search for vines through twitter. (Unpolished example of it in use)[http://vinefeed.heroku.com]
+Search for vines through twitter. [Unpolished example of it in use](http://vinefeed.heroku.com)
 
 Enter some twitter search query like #tags or @user and getting vine information from the results of that query. Returns a Promises/A+ promise using when.js.
 
