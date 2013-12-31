@@ -49,3 +49,7 @@ Unrealistic usage Example:
 * Stream API (should be pretty easy)
 * better retry logic for lack of results. Instead of just blank retrying, concatenate results and retry with updated max_id
 * add since_id support. 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jeffling/node-vine-search/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
