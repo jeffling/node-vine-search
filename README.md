@@ -1,7 +1,7 @@
 node-vine-search
 ================
 
-Search for vines through twitter. (Unpolished example of it in use)[http://vinefeed.heroku.com]
+Search for vines through twitter. [Unpolished example of it in use](http://vinefeed.heroku.com)
 
 Enter some twitter search query like #tags or @user and getting vine videos from the results of that query. Returns a Promises/A+ promise using when.js.
 
@@ -42,3 +42,6 @@ Unrealistic usage Example:
 
     var testSearch = require('vine-search').search({count: 20});
     testSearch.then(successCallback, failCallback)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jeffling/node-vine-search/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
